@@ -85,6 +85,12 @@ ul {
     margin-left: auto;
     margin-right: auto;
 }
+@media only screen and (max-width: 500px) {
+    .content {
+        margin-left: 2%;
+        margin-right: 9%;
+            }
+}
 
 
 /* when hovering over the boxes */
