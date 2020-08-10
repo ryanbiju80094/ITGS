@@ -9,7 +9,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
-    background-color: #D5F4FF/* light blue */ !important; 
+    background-color: #EDEBE8 !important; 
     margin: 0;
     padding: 0;
     width: 100%;
@@ -19,7 +19,7 @@ body {
 
 /* changes for the top header box in main page */
 .upperbox {
-	background-color: #09195B /* dark blue */;
+	background-color: #09195B;
     margin-top: 0.5%; 
     border-bottom: 4px solid white;
     border-top: 4px solid white;
@@ -72,7 +72,7 @@ ul {
 .content>ul>li>a:link,
 .content>ul>li>a:visited {
     text-decoration: none !important;
-    background-color: #09195B;
+    background-color: #09195B; /* #09195B */ 
     border: 1px solid black;
     font-size: 20px;
     text-align: center !important;
