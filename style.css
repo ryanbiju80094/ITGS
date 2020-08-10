@@ -120,7 +120,9 @@ ul {
 
 /*basic outline for the product box*/
 .outline {
-    margin: 2%;
+    width: 1300px;
+    height: 70px;
+    margin-left: 20px;
     border: 2px solid black;
     background-color: #09195B;
     color: white;
@@ -132,7 +134,7 @@ ul {
 
 .words {
     margin: 0px;
-    font-size: 20px;
+    font-size: 17px;
     margin: 10px;
     text-decoration: none !important;
 }
@@ -145,6 +147,215 @@ ul {
 }
 
 
+.frame{
+    width:120px;
+    height:240px;
+}
+
+
+.booklinkphy1 >a:link,
+.booklinkphy1 >a:visited {
+    color: white 
+}
+
+.imagelinkphy1 {
+    position: absolute; top: 288px; left: 1310px; 
+}
+
+
+.booklinkphy2 >a:link,
+.booklinkphy2 >a:visited {
+    color: white 
+}
+/* IMP: GAP BETWEEN TWO IMAGES SHOULD BE OF 258px */
+.imagelinkphy2 {
+    position: absolute; top: 546px; left: 1310px; 
+}
+
+
+.booklinkphy3 >a:link,
+.booklinkphy1 >a:visited {
+    color: white 
+}
+
+.imagelinkphy3 {
+    position: absolute; top: 804px; left: 1310px; 
+}
+
+
+.booklinkphy4 >a:link,
+.booklinkphy4 >a:visited {
+    color: white 
+}
+
+.imagelinkphy4 {
+    position: absolute; top: 1062px; left: 1310px; 
+}
+
+
+.booklinkphy5 >a:link,
+.booklinkphy5 >a:visited {
+    color: white 
+}
+
+.imagelinkphy5 {
+    position: absolute; top: 1320px; left: 1310px; 
+}
+
+
+.booklinkphy6 >a:link,
+.booklinkphy6 >a:visited {
+    color: white 
+}
+
+.imagelinkphy6 {
+    position: absolute; top: 1578px; left: 1310px; 
+}
+
+
+.booklinkphy7 >a:link,
+.booklinkphy6 >a:visited {
+    color: white 
+}
+
+.imagelinkphy7 {
+    position: absolute; top: 1836px; left: 1310px; 
+}
+
+
+/* CHEM SECTION */
+
+
+.booklinkchem1 >a:link,
+.booklinkchem1 >a:visited {
+    color: white 
+}
+
+.imagelinkchem1 {
+    position: absolute; top: 288px; left: 1310px; 
+}
+
+
+.booklinkchem2 >a:link,
+.booklinkchem2 >a:visited {
+    color: white 
+}
+
+.imagelinkchem2 {
+    position: absolute; top: 546px; left: 1310px; 
+}
+
+
+.booklinkchem3 >a:link,
+.booklinkchem3 >a:visited {
+    color: white 
+}
+
+.imagelinkchem3 {
+    position: absolute; top: 804px; left: 1310px; 
+}
+
+
+.booklinkchem4 >a:link,
+.booklinkchem4 >a:visited {
+    color: white 
+}
+
+.imagelinkchem4 {
+    position: absolute; top: 1062px; left: 1310px; 
+}
+
+
+.booklinkchem5 >a:link,
+.booklinkchem5 >a:visited {
+    color: white 
+}
+
+.imagelinkchem5 {
+    position: absolute; top: 1320px; left: 1310px; 
+}
+
+
+.booklinkchem6 >a:link,
+.booklinkchem6 >a:visited {
+    color: white 
+}
+
+.imagelinkchem6 {
+    position: absolute; top: 1578px; left: 1310px; 
+}
+
+
+.booklinkchem7 >a:link,
+.booklinkchem7 >a:visited {
+    color: white 
+}
+
+.imagelinkchem7 {
+    position: absolute; top: 1836px; left: 1310px; 
+}
+
+/* BIOLOGY SECTION */
+
+
+.booklinkbio1 >a:link,
+.booklinkbio1 >a:visited {
+    color: white 
+}
+
+.imagelinkbio1 {
+    position: absolute; top: 288px; left: 1310px; 
+}
+
+
+.booklinkbio2 >a:link,
+.booklinkbio2 >a:visited {
+    color: white 
+}
+
+.imagelinkbio2 {
+    position: absolute; top: 546px; left: 1310px; 
+}
+
+
+.booklinkbio3 >a:link,
+.booklinkbio3 >a:visited {
+    color: white 
+}
+
+.imagelinkbio3 {
+    position: absolute; top: 804px; left: 1310px; 
+}
+
+
+.booklinkbio4 >a:link,
+.booklinkbio4 >a:visited {
+    color: white 
+}
+
+.imagelinkbio4 {
+    position: absolute; top: 1062px; left: 1310px; 
+}
+
+
+.booklinkbio5 >a:link,
+.booklinkbio5 >a:visited {
+    color: white 
+}
+
+.imagelinkbio5 {
+    position: absolute; top: 1320px; left: 1310px; 
+}
+
+
+.booklinkbio6 >a:link,
+.booklinkbio6 >a:visited {
+    color: white 
+}
+
+.imagelinkbio6 {
+    position: absolute; top: 1578px; left: 1310px; 
+}
 
 
 
