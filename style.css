@@ -103,18 +103,19 @@ ul {
 .homebutton>a:link,
 .homebutton>a:visited {
     text-decoration: none !important;
-    color: black;
+    color: #EDEBE8;
     font-size: 20px;
     margin-left: 1§%;
     padding: 5px 5px;
     border: 1px solid black;
     font-size: 15px;
-    background-color: white;
+    background-color: #09195B;
 }
 
 
 .homebutton>a:hover {
     background-color: #faf9f7;
+    color: #09195B;
 }
 
 
