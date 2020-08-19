@@ -121,8 +121,7 @@ ul {
 
 /*basic outline for the product box*/
 .outline {
-    width: 1300px;
-    height: 70px;
+    
     margin-left: 20px;
     border: 2px solid black;
     background-color: #09195B;
@@ -160,7 +159,7 @@ ul {
 }
 
 .imagelinkphy1 {
-    position: absolute; top: 288px; left: 1310px; 
+    top: 288px; left: 1310px; 
 }
 
 
