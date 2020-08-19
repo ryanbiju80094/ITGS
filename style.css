@@ -164,11 +164,11 @@ ul {
 .booklinkphy2 >a:visited {
     color: white 
 }
-/* IMP: GAP BETWEEN TWO IMAGES SHOULD BE OF 258px */
+/* IMP: GAP BETWEEN TWO IMAGES SHOULD BE OF 258px 
+if it was on one screen size lol */
 .imagelinkphy2 {
-    position: absolute; top: 546px; left: 1310px; 
+        margin-left: 45%; 
 }
-
 
 .booklinkphy3 >a:link,
 .booklinkphy1 >a:visited {
@@ -176,7 +176,7 @@ ul {
 }
 
 .imagelinkphy3 {
-    position: absolute; top: 804px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -186,7 +186,7 @@ ul {
 }
 
 .imagelinkphy4 {
-    position: absolute; top: 1062px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -196,7 +196,7 @@ ul {
 }
 
 .imagelinkphy5 {
-    position: absolute; top: 1320px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -206,7 +206,7 @@ ul {
 }
 
 .imagelinkphy6 {
-    position: absolute; top: 1578px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -216,7 +216,7 @@ ul {
 }
 
 .imagelinkphy7 {
-    position: absolute; top: 1836px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -229,7 +229,7 @@ ul {
 }
 
 .imagelinkchem1 {
-    position: absolute; top: 288px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -239,7 +239,7 @@ ul {
 }
 
 .imagelinkchem2 {
-    position: absolute; top: 546px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -249,7 +249,7 @@ ul {
 }
 
 .imagelinkchem3 {
-    position: absolute; top: 804px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -259,7 +259,7 @@ ul {
 }
 
 .imagelinkchem4 {
-    position: absolute; top: 1062px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -269,7 +269,7 @@ ul {
 }
 
 .imagelinkchem5 {
-    position: absolute; top: 1320px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -279,7 +279,7 @@ ul {
 }
 
 .imagelinkchem6 {
-    position: absolute; top: 1578px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -289,7 +289,7 @@ ul {
 }
 
 .imagelinkchem7 {
-    position: absolute; top: 1836px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 /* BIOLOGY SECTION */
@@ -301,7 +301,7 @@ ul {
 }
 
 .imagelinkbio1 {
-    position: absolute; top: 288px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -311,7 +311,7 @@ ul {
 }
 
 .imagelinkbio2 {
-    position: absolute; top: 546px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -321,7 +321,7 @@ ul {
 }
 
 .imagelinkbio3 {
-    position: absolute; top: 804px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -331,7 +331,7 @@ ul {
 }
 
 .imagelinkbio4 {
-    position: absolute; top: 1062px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -341,7 +341,7 @@ ul {
 }
 
 .imagelinkbio5 {
-    position: absolute; top: 1320px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
@@ -351,7 +351,7 @@ ul {
 }
 
 .imagelinkbio6 {
-    position: absolute; top: 1578px; left: 1310px; 
+    margin-left: 45%; 
 }
 
 
